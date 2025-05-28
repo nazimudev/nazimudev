@@ -1,5 +1,5 @@
 # Nazim Uddin
-___
+
 ### Full-Stack Software Developer
 
 <br>
@@ -13,3 +13,6 @@ ___
 </div>
 
 <br>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=appcoderbd&theme=merko)](https://git.io/streak-stats)
