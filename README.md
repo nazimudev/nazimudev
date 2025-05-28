@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nazim Uddin
+___
+### Full-Stack Software Developer
 
-<!--
-**appcoderbd/appcoderbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div style="display: flex">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://dscappstudio.com/"> <img src="assets/website.svg" alt="Website" height="35px" width="auto"></a>
+<a href="https://www.linkedin.com/in/codewithnazim/"> <img src="assets/linkedin.svg" alt="Website" height="35px" width="auto"></a>
+<a href="https://www.facebook.com/appdev.nazim"> <img src="assets/facebook.svg" alt="Website" height="35px" width="auto"></a>
+
+</div>
+
+<br>
