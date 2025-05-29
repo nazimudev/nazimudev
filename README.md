@@ -70,7 +70,7 @@ ___
 <td>
 <div style="cursor: pointer" href="https://github.com/appcoderbd/Java" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=appcoderbd&repo=Java&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=appcoderbd&repo=Java&show_icons=true&theme=radical)
 
 </div>
 </td>
@@ -138,7 +138,7 @@ Let’s build something awesome together!
 <td>
 <div style="cursor: pointer" href="https://github.com/appcoderbd/Java" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appcoderbd&layout=donut&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appcoderbd&layout=donut&theme=merko)
 
 </div>
 </td>
@@ -154,3 +154,5 @@ Let’s build something awesome together!
 </tr>
 </tbody>
 </table>
+
+
