@@ -68,17 +68,17 @@ ___
 <tbody>
 <tr>
 <td>
-<div style="cursor: pointer" onclick="window.open('https://github.com/appcoderbd/Api', '_blank')" >
+<div style="cursor: pointer" href="https://github.com/appcoderbd/Api" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&repo=Api&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&repo=Api&theme=radical)
 
 </div>
 </td>
 
 <td>
-<div style="cursor: pointer" onclick="window.open('https://github.com/appcoderbd/atch-The-Ball-Python-Game', '_blank')" >
+<div style="cursor: pointer" href="https://github.com/appcoderbd/atch-The-Ball-Python-Game" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&repo=atch-The-Ball-Python-Game&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&repo=atch-The-Ball-Python-Game&theme=merko)
 
 </div>
 </td>
@@ -87,4 +87,46 @@ ___
 </tbody>
 </table>
 
+### 👨‍💻 About Me
+
+Hi, I'm Md. Nazim Uddin — a passionate and results-driven Full-Stack Mobile & Web Developer with over 6 
+years of hands-on experience in Android app development and backend systems.
+
+I specialize in building intuitive, high-performance mobile applications using Java, Kotlin, Flutter, 
+and Dart, as well as developing scalable backend APIs using Laravel, Lumen, and PHP. From clean UI/UX 
+design to powerful backend integration, I focus on delivering complete, user-friendly solutions.
+
+### 🚀 What I Do:
+- Develop high-quality Android apps using Java, Kotlin, and XML
+
+- Build cross-platform apps with Flutter & Dart
+
+- Create secure RESTful APIs using Laravel, Lumen, and PHP
+
+- Work with Firebase, Room Database, SQLite, and MySQL
+
+- Manage dependencies and packages using Composer
+
+- Version control using Git & GitHub
+
+- Collaborate on open-source projects and enjoy continuous learning
+
+### 🧰 Tech Stack:
+- Mobile: Java, Kotlin, Flutter, Dart, XML
+
+- Backend: Laravel, Lumen, PHP
+
+- Database: MySQL, SQLite, Firebase
+
+- Tools: Git, Composer, Postman, Android Studio, VS Code, WebStorm, IntelliJIDEA, PyCharm, PhpStorm
+
+- Others: API integration, Authentication, Notifications, Clean Architecture
+
+
+### 🏢 Founder of:
+itstockbd – A tech initiative where I build smart, real-world apps to solve practical 
+problems for clients and users.
+
+I'm always eager to take on new challenges and work on meaningful projects. 
+Let’s build something awesome together!
 
