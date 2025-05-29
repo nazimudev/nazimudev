@@ -49,3 +49,15 @@
 <img src="assets/tach/webstrom.svg" alt="Website" height="60px" width="60px">
 </div>
 
+## 🏢 About My Company
+___
+<div>
+    <p>
+        <a href="https://itstockbd.com/" ><img src="assets/itstockbd.svg" alt="itstockbd logo" width="150"/></a>
+    </p>
+</div>
+
+
+**itstockbd** is a software development company focused on building quality apps and web solutions.
+
+
