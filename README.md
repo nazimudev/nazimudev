@@ -68,9 +68,9 @@ ___
 <tbody>
 <tr>
 <td>
-<div style="cursor: pointer" href="https://github.com/appcoderbd/Api" >
+<div style="cursor: pointer" href="https://github.com/appcoderbd/Java" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&repo=Api&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=appcoderbd&repo=Java&theme=radical)
 
 </div>
 </td>
@@ -78,7 +78,7 @@ ___
 <td>
 <div style="cursor: pointer" href="https://github.com/appcoderbd/atch-The-Ball-Python-Game" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&repo=atch-The-Ball-Python-Game&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=appcoderbd&repo=atch-The-Ball-Python-Game&theme=merko)
 
 </div>
 </td>
@@ -130,3 +130,27 @@ problems for clients and users.
 I'm always eager to take on new challenges and work on meaningful projects. 
 Let’s build something awesome together!
 
+### 💻 Technologies & Languages I Work With
+
+<table>
+<tbody>
+<tr>
+<td>
+<div style="cursor: pointer" href="https://github.com/appcoderbd/Java" >
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appcoderbd&layout=donut&theme=tokyonight)
+
+</div>
+</td>
+
+<td>
+<div style="cursor: pointer" href="https://github.com/appcoderbd/atch-The-Ball-Python-Game" >
+
+![Nazim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&show_icons=true&theme=tokyonight)
+
+</div>
+</td>
+
+</tr>
+</tbody>
+</table>
