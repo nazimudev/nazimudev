@@ -15,7 +15,7 @@
 <br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=appcoderbd&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nazimudev&theme=merko)](https://git.io/streak-stats)
 
 ### 💻 Favorite Snippets
 
@@ -68,17 +68,17 @@ ___
 <tbody>
 <tr>
 <td>
-<div style="cursor: pointer" href="https://github.com/appcoderbd/Java" >
+<div style="cursor: pointer" href="https://github.com/nazimudev/Java" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=appcoderbd&repo=Java&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=nazimudev&repo=Java&show_icons=true&theme=radical)
 
 </div>
 </td>
 
 <td>
-<div style="cursor: pointer" href="https://github.com/appcoderbd/atch-The-Ball-Python-Game" >
+<div style="cursor: pointer" href="https://github.com/nazimudev/atch-The-Ball-Python-Game" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=appcoderbd&repo=atch-The-Ball-Python-Game&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=nazimudev&repo=atch-The-Ball-Python-Game&theme=merko)
 
 </div>
 </td>
@@ -136,17 +136,17 @@ Let’s build something awesome together!
 <tbody>
 <tr>
 <td>
-<div style="cursor: pointer" href="https://github.com/appcoderbd/Java" >
+<div style="cursor: pointer" href="https://github.com/nazimudev/Java" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appcoderbd&layout=donut&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazimudev&layout=donut&theme=merko)
 
 </div>
 </td>
 
 <td>
-<div style="cursor: pointer" href="https://github.com/appcoderbd/atch-The-Ball-Python-Game" >
+<div style="cursor: pointer" href="https://github.com/nazimudev/atch-The-Ball-Python-Game" >
 
-![Nazim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=appcoderbd&show_icons=true&theme=tokyonight)
+![Nazim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazimudev&show_icons=true&theme=tokyonight)
 
 </div>
 </td>
